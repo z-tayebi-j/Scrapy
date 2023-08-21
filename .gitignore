@@ -1,0 +1,6 @@
+*.csv
+__init__.py
+__pycache__/
+
+# OSX miscellaneous
+.DS_Store
