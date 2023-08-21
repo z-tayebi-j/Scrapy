@@ -1,4 +1,3 @@
-# Scrapy
 In this project, there are three parts:
 
 ## collect data
