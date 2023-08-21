@@ -1,4 +1,4 @@
-In this project, there are three parts:
+In this project, there are three steps:
 
 ## collect data
 There is a scrapy project in collector directory. it collects data from [quera problemset](https://quera.org/problemset) and store them in a csv file, each row is details of a problem.
