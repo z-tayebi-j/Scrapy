@@ -2,5 +2,5 @@
 __init__.py
 __pycache__/
 
-# OSX miscellaneous
+# OS
 .DS_Store
